@@ -5,26 +5,5 @@
         "gender": "male",
         "email": "bradleyclarke@exposa.com",
         "phone": "+91 (831) 562-2312"
-    },
-    {
-        "index": 1,
-        "name": "Langley Keller",
-        "gender": "male",
-        "email": "langleykeller@exposa.com",
-        "phone": "+91 (870) 469-3127"
-    },
-    {
-        "index": 2,
-        "name": "Eddie Hess",
-        "gender": "female",
-        "email": "eddiehess@exposa.com",
-        "phone": "+91 (819) 483-2573"
-    },
-    {
-        "index": 3,
-        "name": "Bowers Aguilar",
-        "gender": "male",
-        "email": "bowersaguilar@exposa.com",
-        "phone": "+91 (939) 563-2504"
     }
 ]
