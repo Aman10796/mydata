@@ -1,107 +1,30 @@
 [
     {
         "index": 0,
-        "name": "Romero Jacobson",
+        "name": "Bradley Clarke",
         "gender": "male",
-        "email": "romerojacobson@exposa.com",
-        "phone": "+91 (919) 510-3020"
+        "email": "bradleyclarke@exposa.com",
+        "phone": "+91 (831) 562-2312"
     },
     {
         "index": 1,
-        "name": "Pierce Bridges",
+        "name": "Langley Keller",
         "gender": "male",
-        "email": "piercebridges@exposa.com",
-        "phone": "+91 (909) 406-3859"
+        "email": "langleykeller@exposa.com",
+        "phone": "+91 (870) 469-3127"
     },
     {
         "index": 2,
-        "name": "Misty Mejia",
+        "name": "Eddie Hess",
         "gender": "female",
-        "email": "mistymejia@exposa.com",
-        "phone": "+91 (876) 443-2624"
+        "email": "eddiehess@exposa.com",
+        "phone": "+91 (819) 483-2573"
     },
     {
         "index": 3,
-        "name": "Fleming Chapman",
+        "name": "Bowers Aguilar",
         "gender": "male",
-        "email": "flemingchapman@exposa.com",
-        "phone": "+91 (858) 453-2403"
-    },
-    {
-        "index": 4,
-        "name": "Tonya Silva",
-        "gender": "female",
-        "email": "tonyasilva@exposa.com",
-        "phone": "+91 (976) 418-3073"
-    },
-    {
-        "index": 5,
-        "name": "Catalina Koch",
-        "gender": "female",
-        "email": "catalinakoch@exposa.com",
-        "phone": "+91 (879) 441-2914"
-    },
-    {
-        "index": 6,
-        "name": "Marisa Farmer",
-        "gender": "female",
-        "email": "marisafarmer@exposa.com",
-        "phone": "+91 (811) 418-2612"
-    },
-    {
-        "index": 7,
-        "name": "Liliana Ray",
-        "gender": "female",
-        "email": "lilianaray@exposa.com",
-        "phone": "+91 (965) 401-3280"
-    },
-    {
-        "index": 8,
-        "name": "Hardin Bowers",
-        "gender": "male",
-        "email": "hardinbowers@exposa.com",
-        "phone": "+91 (849) 408-3049"
-    },
-    {
-        "index": 9,
-        "name": "Erma Taylor",
-        "gender": "female",
-        "email": "ermataylor@exposa.com",
-        "phone": "+91 (804) 408-2937"
-    },
-    {
-        "index": 10,
-        "name": "Santiago Chaney",
-        "gender": "male",
-        "email": "santiagochaney@exposa.com",
-        "phone": "+91 (895) 476-2735"
-    },
-    {
-        "index": 11,
-        "name": "Christine Villarreal",
-        "gender": "female",
-        "email": "christinevillarreal@exposa.com",
-        "phone": "+91 (838) 516-3575"
-    },
-    {
-        "index": 12,
-        "name": "Vicky Martinez",
-        "gender": "female",
-        "email": "vickymartinez@exposa.com",
-        "phone": "+91 (869) 531-2012"
-    },
-    {
-        "index": 13,
-        "name": "Bernice Jennings",
-        "gender": "female",
-        "email": "bernicejennings@exposa.com",
-        "phone": "+91 (955) 474-3282"
-    },
-    {
-        "index": 14,
-        "name": "Hartman Irwin",
-        "gender": "male",
-        "email": "hartmanirwin@exposa.com",
-        "phone": "+91 (868) 513-3932"
+        "email": "bowersaguilar@exposa.com",
+        "phone": "+91 (939) 563-2504"
     }
 ]
